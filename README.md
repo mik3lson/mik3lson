@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Michael Ndudi.
+### 👋 Hi there, I’m Michael Ndudi.
 backend + ml eng.
 
 <!---
