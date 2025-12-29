@@ -1,5 +1,5 @@
 ### 👋 Hi there, I’m Michael Ndudi.
-  loving backend & ml 
+loving backend & ml.
 
 <!---
 mik3lson/mik3lson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
